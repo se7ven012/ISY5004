@@ -11,6 +11,22 @@ COMPARISON OF UNET, UNET++, RES-UNET, SEGNET AND SEG-UNET FOR SEGMENTATION OF CE
 - scikit-image 0.16.2
 - scikit-learn 0.20.3
 
+## Dataset
+Please refer to [here](https://www.kaggle.com/c/data-science-bowl-2018/data)
+unzip the dataset and put it under：
+```
+|-- COMPARISON OF UNET, UNET++, RES-UNET, SEGNET AND SEG-UNET FOR SEGMENTATION OF CELLS’ NUCLEI IMAGE
+    |-- h5
+    |-- model_plot
+    |-- utils
+    |-- plot_loss.py
+    |-- test.py
+    |-- train.py
+    |-- data-science-bowl-2018
+    |   |-- stage1_test
+    |   |-- stage1_train
+```
+
 ## Experiment
 **Train models:**
 
