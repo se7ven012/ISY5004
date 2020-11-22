@@ -15,7 +15,7 @@ COMPARISON OF UNET, UNET++, RES-UNET, SEGNET AND SEG-UNET FOR SEGMENTATION OF CE
 Please refer to [here](https://www.kaggle.com/c/data-science-bowl-2018/data)
 unzip the dataset and put it under：
 ```
-|-- COMPARISON OF UNET, UNET++, RES-UNET, SEGNET AND SEG-UNET FOR SEGMENTATION OF CELLS’ NUCLEI IMAGE
+|-- ISY5004
     |-- h5
     |-- model_plot
     |-- utils
@@ -44,6 +44,8 @@ python test.py
 ```
 python plot_loss.py
 ```
-
+## Results 
+**COMPARISON**
+![LCTFP](https://github.com/se7ven012/ISY5004/model_plot/SegmentationResults.png)
 
 
