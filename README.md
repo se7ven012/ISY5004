@@ -12,8 +12,13 @@ COMPARISON OF UNET, UNET++, RES-UNET, SEGNET AND SEG-UNET FOR SEGMENTATION OF CE
 - scikit-learn 0.20.3
 
 ## Experiment
+**Train models:**
 
-**Test the result:**
+```
+python train.py
+```
+
+**Test models:**
 
 ```
 python test.py
@@ -25,10 +30,4 @@ python plot_loss.py
 ```
 
 
-## Train models
 
-**Train models:**
-
-```
-python train.py
-```
