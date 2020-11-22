@@ -46,6 +46,5 @@ python plot_loss.py
 ```
 ## Results 
 **COMPARISON**
-![LCTFP](https://github.com/se7ven012/ISY5004/model_plot/SegmentationResults.png)
-
+![LCTFP](https://github.com/se7ven012//ISY5004/tree/main/model_plot/SegmentationResults.png)
 
