@@ -23,7 +23,7 @@ python train.py
 ```
 python test.py
 ```
-**Plot loss:**
+**Plot losses:**
 
 ```
 python plot_loss.py
